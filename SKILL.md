@@ -40,7 +40,7 @@ description: 团队在 Linear 里的工作流 SOP，分 For PM 和 For Executor 
 
 ## For PM
 
-1. 立 Initiative（Workspace → Initiatives），让后面的 Project 都能挂到它下面。
+1. 立 Initiative：在 Workspace → Initiatives 手动建（公司级目标数量少，部分工具链不支持 initiatives），让后面的 Project 都能挂到它下面。
 2. 切 Team（按组织架构或经常协作的一群人）；每个 Team 配好自己的任务列表、Project、设置和常用 Issue 模板（如 bug 报告模板）。
 3. 立 Project 并养 Project Overview。立项有门槛：问题、目标用户、价值、证据、成功标准先写进产品文档，模糊想法不许直接拆给执行者。Overview 是项目唯一的上下文存放地（Linear 里文档只能建在 Project 和 Initiative 里），按阶段写：
    - 头脑风暴：写目标、数据、可行路径，不用写得太完美；可让 Agent 先分析 backlog 和历史 customer requests 起草初稿，再拉同事进评论和话题评审，边谈边锁定结论。
